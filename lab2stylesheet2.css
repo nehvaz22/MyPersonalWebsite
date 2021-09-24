@@ -1,0 +1,68 @@
+html {
+    background-color: plum;
+}
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    letter-spacing: 2px;
+    padding: 100px;
+    line-height: 1.5;
+    text-shadow: 2px 2px pink;
+    font-family: 'Merriweather', serif;
+    border: black solid 5px;
+    font-size: 75px;
+}
+h2 {
+    background-color: white;
+    color: #ff0000;
+    text-align: left;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    padding: 20px;
+    font-family: 'Merriweather', serif; 
+    border: black solid 5px;
+    font-size: 45px;
+}  
+h3 {
+    background-color: white;
+    color: powderblue;
+    text-align: left;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    padding: 20px;
+    font-family: 'Merriweather', serif;
+    border: black solid 5px;
+    font-size: 40px;
+}   
+p {
+    background-color: midnightblue;
+    letter-spacing: 2px;
+    text-align: justified;
+    color: white;
+    line-height: 1.0;
+    padding: 30px;
+    font-family: 'Merriweather', serif;
+    font-size: 50px;
+    border: black solid 5px;
+}
+ul {
+    background-color: midnightblue;
+    letter-spacing: 2px;
+    text-align: justified;
+    color: white;
+    line-height: 1.0;
+    padding: 30px;
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    border: black solid 5px;
+}
+.box {
+    margin: 50px 30px;
+    border: black solid 5px;
+    padding: 50px 20px;
+    width: 1300px;
+    height: 160px;
+    font-family: 'Merriweather', serif;  
+    font-size: 25px;
+}
